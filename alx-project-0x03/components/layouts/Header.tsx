@@ -1,5 +1,5 @@
 //### components/layouts/Header.tsx
-import Button from "./Button";
+import Button from "../common/Button";
 import Link from "next/link";
 
 const Header: React.FC =() => {
